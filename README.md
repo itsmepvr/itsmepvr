@@ -79,6 +79,11 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmepvr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/itsmepvr/count.svg" />
+</p>
+
 ## Social Links:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/itsmepvr/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/itsmepvr) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/itsmepvr) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/itsmepvr)
