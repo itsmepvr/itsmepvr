@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/deepraj1729/deepraj1729/blob/master/Assets/Hi.gif" height ="20px"  width="25px">, I'm Venkata Ramana Reddy
+### Hi there, I'm Venkata Ramana Reddy
 
 I'm a `Javascript` and `Python` Developer alongside a `ML` Developer. 
 
