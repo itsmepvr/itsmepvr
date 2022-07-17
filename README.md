@@ -56,7 +56,7 @@ Check out my **`featured repos`** to know my skills better. Hit a ⭐ if you lik
 <code><img height="25" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_15680ee909406e13c21c8f179f83d99e/gitlab.png"></code>
 
 #### Know more about me:-
-- 💻 `Javascript` and `Python` developer, working as `R and D Lead` at **Nestor Analytics Private Limited**.
+- 💻 `Javascript` and `Python` developer, working as `Software Engineer` at **Infobelt Inc.**.
 - 🤖 Creator of a `Anki Addons`, [anki-find-and-replace-in-templates](https://ankiweb.net/shared/info/992153575) && [anki-copy-edit-run-code-from-external-editor](https://ankiweb.net/shared/info/1732661953), using **Python and Javascrpt**.
 - 🤖 Creator of a `Automate Project Creation and Push to Github`[https://github.com/itsmepvr/automate-project-creation], using **Python and Shell Script**
 - 🥇 An **`Open-Source Contributor`** and would love to colab on **Open Source Projects**.
