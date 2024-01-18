@@ -86,11 +86,11 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳, based in U
 <a href="https://github.com/itsmepvr/anki-find-and-replace-in-templates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmepvr&repo=anki-find-and-replace-in-templates&theme=buefy" />
 </a>
-<br>
+<br><br>
 <a href="https://github.com/itsmepvr/DevInitiate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmepvr&repo=DevInitiate&theme=buefy" />
 </a>
-<br>
+<br><br>
 <a href="https://github.com/itsmepvr/Pixel-Animation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmepvr&repo=Pixel-Animation&theme=buefy" />
 </a>
